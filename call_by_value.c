@@ -1,8 +1,8 @@
 #include <stdio.h>
 void incr(int x,int y)
 {
-    x+=;
-    y+=;
+    x+=1;
+    y+=1;
     printf("\nIncreamented value in function x=%d & y=%d",x,y);
 }
 
